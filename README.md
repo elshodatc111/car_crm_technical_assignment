@@ -122,7 +122,9 @@ API реализован с использованием последней ве
 ## Документация API
 
 Документация API доступна через Постмен  по адресу:
-`https://orange-escape-760682.postman.co/workspace/New-Team-Workspace~b2337858-3303-4631-823a-9162bef0e6a6/collection/14732812-6a77007c-0570-47dc-b154-981812060b3d?action=share&creator=14732812`
+```bash
+https://orange-escape-760682.postman.co/workspace/New-Team-Workspace~b2337858-3303-4631-823a-9162bef0e6a6/collection/14732812-6a77007c-0570-47dc-b154-981812060b3d?action=share&creator=14732812
+```
 
 Также можно использовать Postman коллекцию для тестирования всех endpoint'ов.
 
